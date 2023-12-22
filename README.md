@@ -28,7 +28,7 @@ docker volume rm $(docker volume ls -q)
 
 ## 1 / Lancer les 3 conatiners avec le docker-compose.yml
 
-- Se rendre dans le dossier ou il y a le docker compose (cd tuto_Master_Master)
+- Se rendre dans le dossier ou il y a le docker compose (cd tutoMasterMaster)
 
 ```
 docker compose up 
