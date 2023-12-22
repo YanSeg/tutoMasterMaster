@@ -218,7 +218,7 @@ Sur n'importe lequel des containers
 ```
 create database Tumedois10e
 ```
-Puis voir que la table est bien créé sur l'auttre :
+Puis voir que la bdd est bien créée sur l'auttre :
 ```
 show databases;
 ```
